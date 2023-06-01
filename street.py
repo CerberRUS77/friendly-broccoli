@@ -7,3 +7,4 @@ while True:
         print('Ответ', x * y)
     elif c == 2:
         print('Ответ', x + y)
+# хм
